@@ -63,7 +63,7 @@ Rio de Janeiro/RJ
 ## Experência Profissional
 
 * 2018/Atualmente – **Proteina Digital**
-> Assistente de desenvolvimento cuidando da manutenção dos sites dos clientes, criação e manutenção dos sistemas desenvolvidos pela empresa
+> Assistente de desenvolvimento cuidando da manutenção dos sites dos clientes, criação e manutenção dos sistemas desenvolvidos pela empresa.
 
 
 ---
